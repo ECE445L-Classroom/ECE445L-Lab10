@@ -2,7 +2,7 @@
 
 ECE445L Lab 10 Template.
 
-[Lab 10 README](Lab10H.docx)
+[Lab 10 README](Lab10.docx)
 
 IMPORTANT (for those not using Github Classroom): To clone this repository,
 click the green "Use this template" button and create a PRIVATE repository. Do
@@ -13,8 +13,7 @@ NOT clone this repository as you would normally clone a git repo (i.e. using
 
 The hw folder should contain your schematic and board files for your PCB or
 circuits. In later labs, you will be creating schematics for your circuit
-in EAGLE. A setup tutorial can be found
-[here](https://www.shawnvictor.net/autodesk-eagle.html).
+in KiCad. A setup tutorial can be found
 
 ## SW
 
